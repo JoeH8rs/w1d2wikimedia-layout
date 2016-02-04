@@ -1,0 +1,76 @@
+
+main {
+    width: 72%;
+    margin: auto;
+    font-family: sans-serif;
+    line-height: 150%;
+    font-size: 20px;
+    
+}
+
+#intro {
+    margin-top: 30px;
+}
+
+
+.otherprojects {
+	display: flex;
+    flex-wrap: wrap;
+    width: 120%;
+     
+    
+}
+.otherprojects-item {
+  
+   margin: 1.8vw 5.5vw -3px 0;
+   height: auto;
+   width: 155px;
+   
+  
+}
+
+ul {
+    width: 33%;
+    display: flex;
+    flex-wrap: wrap;
+    margin: auto;
+    
+    
+    
+}
+
+li {
+   list-style-type: none; 
+   margin: auto;
+   
+}
+
+a:link {
+    color: navy;
+    text-decoration: none;
+}
+
+a:visited {
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+a:active {
+    text-decoration: underline;
+}
+
+#footer {
+    width: 90%;
+    margin: auto;
+    font-family: sans-serif;
+    line-height: 160%;
+    font-size: 20px;
+    text-align: center;
+    font-size: 12px;
+}
+
+
+
